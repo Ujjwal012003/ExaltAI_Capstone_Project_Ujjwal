@@ -1,0 +1,30 @@
+{
+  "created_date": "2025-09-05 20:12:57",
+  "rf_accuracy": 0.9014598540145985,
+  "lr_accuracy": 0.8832116788321168,
+  "feature_names": [
+    "Administrative",
+    "Administrative_Duration",
+    "Informational",
+    "Informational_Duration",
+    "ProductRelated",
+    "ProductRelated_Duration",
+    "BounceRates",
+    "ExitRates",
+    "PageValues",
+    "SpecialDay",
+    "OperatingSystems",
+    "Browser",
+    "Region",
+    "TrafficType",
+    "Weekend",
+    "Month_encoded",
+    "VisitorType_encoded"
+  ],
+  "encoding_info": {
+    "Month": "Label encoded (Jan=0, Feb=1, ...)",
+    "VisitorType": "New_Visitor=0, Returning_Visitor=1",
+    "Weekend": "False=0, True=1",
+    "Revenue": "False=0, True=1"
+  }
+}
