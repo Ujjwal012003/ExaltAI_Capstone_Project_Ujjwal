@@ -26,7 +26,7 @@ This capstone project develops machine learning models to predict online shoppin
 - **Technical Data**: Browser, operating system, region, traffic source
 
 ## 🏗️ Project Structure
-
+'''
 ExaltAI_Capstone_Project_Ujjwal/
 ├── raw_data/
 │   └── online_shoppers_intention.csv
@@ -43,6 +43,7 @@ ExaltAI_Capstone_Project_Ujjwal/
 │   └── model_info.json
 ├── README.md
 └── requirements.txt
+'''
 
 
 
