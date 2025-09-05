@@ -29,20 +29,21 @@ This capstone project develops machine learning models to predict online shoppin
 
 ExaltAI_Capstone_Project_Ujjwal/
 ├── raw_data/
-│ └── online_shoppers_intention.csv # Original dataset
+│   └── online_shoppers_intention.csv
 ├── processed_data/
-│ └── processed_shoppers_data.csv # Cleaned and encoded data
+│   └── processed_shoppers_data.csv  
 ├── notebooks/
-│ └── shoppers_analysis_complete.ipynb # Complete analysis pipeline
+│   └── shoppers_analysis_complete.ipynb
 ├── models/
-│ ├── random_forest_model.pkl # Best performing model
-│ ├── logistic_regression_model.pkl # Alternative model
-│ └── feature_scaler.pkl # Data preprocessing pipeline
+│   ├── random_forest_model.pkl
+│   ├── logistic_regression_model.pkl
+│   └── feature_scaler.pkl
 ├── outputs/
-│ ├── feature_importance.csv # Feature analysis results
-│ └── model_info.json # Model metadata
+│   ├── feature_importance.csv
+│   └── model_info.json
 ├── README.md
 └── requirements.txt
+
 
 
 ## 🔬 Analysis Workflow
