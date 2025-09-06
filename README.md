@@ -79,10 +79,10 @@ ExaltAI_Capstone_Project_Ujjwal/
 
 ### 🤖 Model Performance Comparison:
 
-| Model | Accuracy | Precision | Recall | F1-Score | Use Case |
-|-------|----------|-----------|--------|----------|----------|
-| **Random Forest** | **89.2%** | **85.0%** | **71.0%** | **77.4%** | Production deployment |
-| Logistic Regression | 87.8% | 82.0% | 68.0% | 74.4% | Interpretability analysis |
+| Model | Accuracy | Precision | Recall | Use Case |
+|-------|----------|-----------|--------|----------|
+| **Random Forest** | **90.15%** | **73.0%** | **58.0%** | Production deployment |
+| Logistic Regression | 88.32% | 76.0% | 36.0% | Interpretability analysis |
 
 ### 🏆 Feature Importance Rankings:
 1. **PageValues** (0.31) - Assigned value of pages visited
@@ -154,7 +154,7 @@ print(f"Confidence Level: {probability:.2%}")
 ## 📊 Results & Impact
 
 ### Model Deployment Readiness:
-✅ **High Accuracy**: 89.2% classification accuracy  
+✅ **High Accuracy**: 90.15% classification accuracy  
 ✅ **Production Pipeline**: Complete preprocessing and prediction workflow  
 ✅ **Scalable Architecture**: Handles real-time session data  
 ✅ **Business Integration**: Actionable insights for e-commerce optimization  
